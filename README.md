@@ -30,6 +30,6 @@ I'm an aspiring software engineer with a Master's in Computer Engineering from N
 - 🙋🏽‍♂️ he/him
 - 🎮 Gaming and experimenting with VR.
 
-![Football](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 - 📫 Feel free to reach out via [email](mailto:jayvardhan.singh@nyu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/jayvardhan-singh/). Let's build something great together!
