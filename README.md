@@ -3,8 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayvardhan-singh/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/nomed11)
 
-![Welcome](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 ### About Me
 
 I'm an aspiring software engineer with a Master's in Computer Engineering from NYU and a Bachelor's in Computer and Communications Engineering from MUJ. I specialize in full-stack development and data engineering.
