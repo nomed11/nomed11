@@ -1,4 +1,4 @@
-![Hi]([https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMwNzcyeGJzdWF3d2s3a29wYXhtY3FhcWlwdmZvZGMwZzNsd3o3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8IF2r8rB3ksv7uJTfE/giphy.gif))
+![Hi, I'm Jayvardhan Singh](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMwNzcyeGJzdWF3d2s3a29wYXhtY3FhcWlwdmZvZGMwZzNsd3o3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8IF2r8rB3ksv7uJTfE/giphy.gif)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayvardhan-singh/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/nomed11)
