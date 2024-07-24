@@ -7,7 +7,7 @@
 
 I'm an aspiring software engineer with a Master's in Computer Engineering from NYU and a Bachelor's in Computer and Communications Engineering from MUJ. I specialize in full-stack development and data engineering.
 
-📄 [Check out my resume](Jayvardhan_Singh_resume)
+📄 [Check out my resume](Jayvardhan_Singh_resume.pdf)
 
 ### What I Do
 
